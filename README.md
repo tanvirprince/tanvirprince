@@ -1,11 +1,6 @@
 ### Hi there 👋, My Name's Tanvir Rahman Prince
 #### Software Engineer
-
-
 Results-driven Backend Developer with 5+ years of experience in building scalable, secure, and performance-driven systems. Proficient in PHP (Laravel), REST APIs, MySQL/PostgreSQL, and Redis with a strong focus on microservices, cloud platforms, and high-traffic architectures. Currently working at Adventure Dhaka Limited, a subsidiary of Japan’s largest OTA, contributing to the global reservation platform Skyticket
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tanvirprince)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirprince&show_icons=true&count_private=true) 
-![Profile views](https://gpvc.arturio.dev/tanvirprince)
 
 ## Skills
 
